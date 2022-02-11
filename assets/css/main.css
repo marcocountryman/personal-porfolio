@@ -3468,7 +3468,7 @@ input, select, textarea {
 
 			#banner {
 				padding: 7em 0 8.25em 0 ;
-				background-color: #2e3141;
+				background-color: #2a6f97;
 				background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
 				background-size: auto,
  cover;
@@ -3580,7 +3580,7 @@ input, select, textarea {
 
 		#wrapper > header {
 			padding: 9em 0 6.25em 0 ;
-			background-color: #2e3141;
+			/* background-color: #2e3141; */
 			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
 			background-size: auto,
  cover;
@@ -3628,21 +3628,22 @@ input, select, textarea {
 	}
 
 	.wrapper {
-		background-color: #2e3141;
+		/* background-color: #2e3141; */
+		background-color: #014f86;
 		margin: 6.5em 0;
 		position: relative;
 	}
 
 		.wrapper:before, .wrapper:after {
-			background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%232e3141%3B' /%3E%3C/svg%3E");
+			background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%23014f86%3B' /%3E%3C/svg%3E");
 		}
 
 		.wrapper:before {
-			box-shadow: inset 0 -1px 0 0 #2e3141, 0 1px 0 0 #2e3141;
+			box-shadow: inset 0 -1px 0 0 #014f86, 0 1px 0 0 #014f86;
 		}
 
 		.wrapper:after {
-			box-shadow: inset 0 -1px 0 0 #2e3141, 0 1px 0 0 #2e3141;
+			box-shadow: inset 0 -1px 0 0 #014f86, 0 1px 0 0 #014f86;
 		}
 
 		.wrapper:before, .wrapper:after {
@@ -3690,87 +3691,87 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #353849;
+			background-color: #2a6f97;
 		}
 
 			.wrapper.style2:before, .wrapper.style2:after {
-				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%23353849%3B' /%3E%3C/svg%3E");
+				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%232a6f97%3B' /%3E%3C/svg%3E");
 			}
 
 			.wrapper.style2:before {
-				box-shadow: inset 0 -1px 0 0 #353849, 0 1px 0 0 #353849;
+				box-shadow: inset 0 -1px 0 0 #2a6f97, 0 1px 0 0 #2a6f97;
 			}
 
 			.wrapper.style2:after {
-				box-shadow: inset 0 -1px 0 0 #353849, 0 1px 0 0 #353849;
+				box-shadow: inset 0 -1px 0 0 #2a6f97, 0 1px 0 0 #2a6f97;
 			}
 
 		.wrapper.style3 {
-			background-color: #3d4051;
+			background-color: #2a6f97;
 		}
 
 			.wrapper.style3:before, .wrapper.style3:after {
-				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%233d4051%3B' /%3E%3C/svg%3E");
+				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%2361a5c2%3B' /%3E%3C/svg%3E");
 			}
 
 			.wrapper.style3:before {
-				box-shadow: inset 0 -1px 0 0 #3d4051, 0 1px 0 0 #3d4051;
+				box-shadow: inset 0 -1px 0 0 #2a6f97, 0 1px 0 0 #2a6f97;
 			}
 
 			.wrapper.style3:after {
-				box-shadow: inset 0 -1px 0 0 #3d4051, 0 1px 0 0 #3d4051;
+				box-shadow: inset 0 -1px 0 0 #2a6f97, 0 1px 0 0 #2a6f97;
 			}
 
 		.wrapper.style4 {
-			background-color: #454858;
+			background-color: #2a6f97;
 		}
 
 			.wrapper.style4:before, .wrapper.style4:after {
-				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%23454858%3B' /%3E%3C/svg%3E");
+				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%2361a5c2%3B' /%3E%3C/svg%3E");
 			}
 
 			.wrapper.style4:before {
-				box-shadow: inset 0 -1px 0 0 #454858, 0 1px 0 0 #454858;
+				box-shadow: inset 0 -1px 0 0 #2a6f97, 0 1px 0 0 #2a6f97;
 			}
 
 			.wrapper.style4:after {
-				box-shadow: inset 0 -1px 0 0 #454858, 0 1px 0 0 #454858;
+				box-shadow: inset 0 -1px 0 0 #2a6f97, 0 1px 0 0 #2a6f97;
 			}
 
 		.wrapper.style5 {
-			background-color: #4d5060;
+			background-color: #2a6f97;
 		}
 
 			.wrapper.style5:before, .wrapper.style5:after {
-				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%234d5060%3B' /%3E%3C/svg%3E");
+				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%2361a5c2%3B' /%3E%3C/svg%3E");
 			}
 
 			.wrapper.style5:before {
-				box-shadow: inset 0 -1px 0 0 #4d5060, 0 1px 0 0 #4d5060;
+				box-shadow: inset 0 -1px 0 0 #2a6f97, 0 1px 0 0 #2a6f97;
 			}
 
 			.wrapper.style5:after {
-				box-shadow: inset 0 -1px 0 0 #4d5060, 0 1px 0 0 #4d5060;
+				box-shadow: inset 0 -1px 0 0 #2a6f97, 0 1px 0 0 #2a6f97;
 			}
 
 		.wrapper.style6 {
-			background-color: #555867;
+			background-color: #2a6f97;
 		}
 
 			.wrapper.style6:before, .wrapper.style6:after {
-				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%23555867%3B' /%3E%3C/svg%3E");
+				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%2361a5c2%3B' /%3E%3C/svg%3E");
 			}
 
 			.wrapper.style6:before {
-				box-shadow: inset 0 -1px 0 0 #555867, 0 1px 0 0 #555867;
+				box-shadow: inset 0 -1px 0 0 #2a6f97, 0 1px 0 0 #2a6f97;
 			}
 
 			.wrapper.style6:after {
-				box-shadow: inset 0 -1px 0 0 #555867, 0 1px 0 0 #555867;
+				box-shadow: inset 0 -1px 0 0 #2a6f97, 0 1px 0 0 #2a6f97;
 			}
 
 		.wrapper.spotlight {
-			background-color: #2e3141;
+			background-color: #014f86;
 		}
 
 			.wrapper.spotlight:before, .wrapper.spotlight:after {
@@ -3779,11 +3780,11 @@ input, select, textarea {
 			}
 
 			.wrapper.spotlight:before {
-				box-shadow: inset 0 -1px 0 0 #2e3141, 0 1px 0 0 #2e3141;
+				box-shadow: inset 0 -1px 0 0 #014f86, 0 1px 0 0 #014f86;
 			}
 
 			.wrapper.spotlight:after {
-				box-shadow: inset 0 -1px 0 0 #2e3141, 0 1px 0 0 #2e3141;
+				box-shadow: inset 0 -1px 0 0 #014f86, 0 1px 0 0 #014f86;
 			}
 
 			.wrapper.spotlight .inner {
@@ -3833,7 +3834,7 @@ input, select, textarea {
 			}
 
 			.wrapper.spotlight.style2 {
-				background-color: rgb(53,56,73);
+				background-color: #2a6f97;
 			}
 
 				.wrapper.spotlight.style2:before, .wrapper.spotlight.style2:after {
@@ -3841,15 +3842,15 @@ input, select, textarea {
 				}
 
 				.wrapper.spotlight.style2:before {
-					box-shadow: inset 0 -1px 0 0 rgb(53,56,73), 0 1px 0 0 rgb(53,56,73);
+					box-shadow: inset 0 -1px 0 0 #2a6f97, 0 1px 0 0 #2a6f97;
 				}
 
 				.wrapper.spotlight.style2:after {
-					box-shadow: inset 0 -1px 0 0 rgb(53,56,73), 0 1px 0 0 rgb(53,56,73);
+					box-shadow: inset 0 -1px 0 0 #2a6f97, 0 1px 0 0 #2a6f97;
 				}
 
 			.wrapper.spotlight.style3 {
-				background-color: rgb(61,64,81);
+				background-color: #61a5c2;
 			}
 
 				.wrapper.spotlight.style3:before, .wrapper.spotlight.style3:after {
@@ -3857,11 +3858,11 @@ input, select, textarea {
 				}
 
 				.wrapper.spotlight.style3:before {
-					box-shadow: inset 0 -1px 0 0 rgb(61,64,81), 0 1px 0 0 rgb(61,64,81);
+					box-shadow: inset 0 -1px 0 0 #61a5c2, 0 1px 0 0 #61a5c2;
 				}
 
 				.wrapper.spotlight.style3:after {
-					box-shadow: inset 0 -1px 0 0 rgb(61,64,81), 0 1px 0 0 rgb(61,64,81);
+					box-shadow: inset 0 -1px 0 0 #61a5c2, 0 1px 0 0 #61a5c2;
 				}
 
 			.wrapper.spotlight.style4 {
@@ -3869,7 +3870,7 @@ input, select, textarea {
 			}
 
 				.wrapper.spotlight.style4:before, .wrapper.spotlight.style4:after {
-					background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%2339477c%3B' /%3E%3C/svg%3E");
+					background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%2468fafc%3B' /%3E%3C/svg%3E");
 				}
 
 				.wrapper.spotlight.style4:before {
@@ -3881,7 +3882,7 @@ input, select, textarea {
 				}
 
 			.wrapper.spotlight.style5 {
-				background-color: #324072;
+				background-color: #2a6f97;
 			}
 
 				.wrapper.spotlight.style5:before, .wrapper.spotlight.style5:after {
@@ -3889,15 +3890,15 @@ input, select, textarea {
 				}
 
 				.wrapper.spotlight.style5:before {
-					box-shadow: inset 0 -1px 0 0 #324072, 0 1px 0 0 #324072;
+					box-shadow: inset 0 -1px 0 0 #2a6f97, 0 1px 0 0 #2a6f97;
 				}
 
 				.wrapper.spotlight.style5:after {
-					box-shadow: inset 0 -1px 0 0 #324072, 0 1px 0 0 #324072;
+					box-shadow: inset 0 -1px 0 0 #2a6f97, 0 1px 0 0 #2a6f97;
 				}
 
 			.wrapper.spotlight.style6 {
-				background-color: #2d3a69;
+				background-color: #2a6f97;
 			}
 
 				.wrapper.spotlight.style6:before, .wrapper.spotlight.style6:after {
@@ -3905,11 +3906,11 @@ input, select, textarea {
 				}
 
 				.wrapper.spotlight.style6:before {
-					box-shadow: inset 0 -1px 0 0 #2d3a69, 0 1px 0 0 #2d3a69;
+					box-shadow: inset 0 -1px 0 0 #2a6f97, 0 1px 0 0 #2a6f97;
 				}
 
 				.wrapper.spotlight.style6:after {
-					box-shadow: inset 0 -1px 0 0 #2d3a69, 0 1px 0 0 #2d3a69;
+					box-shadow: inset 0 -1px 0 0 #2a6f97, 0 1px 0 0 #2a6f97;
 				}
 
 		@media screen and (max-width: 980px) {
