@@ -4196,3 +4196,13 @@ input, select, textarea {
 		font-size: 30px;
 		padding: 10px;
 	}
+
+	#resume {
+		display: flex;
+		justify-content: center;
+	}
+
+	.resume-img {
+		width: 50vw;
+		height: 90vh;
+	}
