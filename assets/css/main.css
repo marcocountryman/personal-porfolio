@@ -4212,3 +4212,7 @@ input, select, textarea {
 		font-weight: lighter;
 		font-style: italic;
 	}
+
+	.inner a:hover {
+		border-bottom: 1px solid white;
+	}
