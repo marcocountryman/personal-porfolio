@@ -4206,3 +4206,9 @@ input, select, textarea {
 		width: 50vw;
 		height: 90vh;
 	}
+
+	.inner a {
+		font-size: 16px;
+		font-weight: lighter;
+		font-style: italic;
+	}
